@@ -18,4 +18,4 @@ At the bottom of the dialing keyboard, **TrollStoreApp** adds support for dual S
 ## 5. SIM Card Selection in Call Records
 **TrollStoreApp** further extends the functionality of call records, allowing users to choose a specific SIM card when dialing from the call history. This gives users more control, ensuring they use the correct SIM card for their calls.
 
-Through these features, **TrollStoreApp** enhances the user experience of the system's phone app, providing users with more choices and convenience.
+**Note:** TrollStoreApp is completely free of charge, providing users with these enhanced features without any cost.
