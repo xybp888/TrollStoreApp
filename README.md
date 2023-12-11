@@ -1,5 +1,8 @@
 # TrollStoreApp Feature Introduction
 
+**Note:** TrollStoreApp is completely free of charge, providing users with these enhanced features without any cost.
+
+
 ## Overview
 **TrollStoreApp** is an application enhancement tool implemented through Troll injection Tweak, designed to optimize and extend the functionality of the system's phone app. The following is an introduction to the main features.
 
@@ -18,4 +21,3 @@ At the bottom of the dialing keyboard, **TrollStoreApp** adds support for dual S
 ## 5. SIM Card Selection in Call Records
 **TrollStoreApp** further extends the functionality of call records, allowing users to choose a specific SIM card when dialing from the call history. This gives users more control, ensuring they use the correct SIM card for their calls.
 
-**Note:** TrollStoreApp is completely free of charge, providing users with these enhanced features without any cost.
